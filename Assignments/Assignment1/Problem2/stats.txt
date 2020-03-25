@@ -1,0 +1,10 @@
+np=1
+Time taken by parallel gaussian elimination : 0.019971
+np=2
+Time taken by parallel gaussian elimination : 0.041152
+np=5
+Time taken by parallel gaussian elimination : 0.116553
+np=7
+Time taken by parallel gaussian elimination : 0.193809
+np=10
+Time taken by parallel gaussian elimination : 32.29180
